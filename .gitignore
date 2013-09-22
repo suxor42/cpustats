@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 __pycache__/
+=======
+>>>>>>> origin/master
 *.py[cod]
 
 # C extensions
